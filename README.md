@@ -1,6 +1,4 @@
-## kn1ph
-
-Security Researcher
+## kn1ph - Security Researcher
 
 **CVEs**
 - CVE-2026-48527: Stored XSS sanitizer bypass - (CVSS 8.7)
